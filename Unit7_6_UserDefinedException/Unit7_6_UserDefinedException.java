@@ -12,7 +12,7 @@ package Unit7_6_UserDefinedException;
  * public class BaseException extends Exception{
  *     private
  * }
- * 
+ *
  */
 public class Unit7_6_UserDefinedException {
 }
